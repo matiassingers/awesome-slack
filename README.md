@@ -8,11 +8,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - Linux - https://github.com/wlaurance/slack-for-linux
 - Windows - https://github.com/rfgamaral/SlackUI
 
-## Slash commands
-- [generator-slack-command](https://github.com/matiassingers/generator-slack-command) - [Yeoman](http://yeoman.io/) generator to create a simple Slack slash command server
-- [slack-movie](https://github.com/matiassingers/slack-movie) - slack command for getting movie info
-- [slack-currency](https://github.com/matiassingers/slack-currency) - slack command for converting currency
-
 ## Lists
 - [awesome-open-slack](https://github.com/tyshgc/awesome-open-slack) - repository of Slack open team list
 - [Community-built integrations](https://api.slack.com/community)
@@ -135,6 +130,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [crispyfi](https://github.com/crispymtn/crispyfi) - A local pseudo-bot that controls Spotify through Slack
 - [cylebot-slack](https://github.com/cyle/cylebot-slack) - Cylebot, but for Slack
 - [ExceptionalIO2Slack](https://github.com/Dorian/ExceptionalIO2Slack) - Send exceptions from Exceptional.io to Slack
+- [generator-slack-command](https://github.com/matiassingers/generator-slack-command) - [Yeoman](http://yeoman.io/) generator to create a simple Slack slash command server
 - [gif-bot](https://github.com/ms-digital-labs/gif-bot) - A Gif Bot for Slack
 - [giphyslack](https://github.com/dotfury/giphyslack) - Giphy integration for Slack built in node.js
 - [grunt-alert](https://github.com/mmarcon/grunt-alert) - Sends alerts about failing builds using different channels
@@ -158,7 +154,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slack-brewbow](https://github.com/swirlycheetah/slack-brewbow) - Whose turn is it to make a brew? Let BrewBot decide
 - [slack-btc](https://github.com/hkarthik/slack-btc) - Simple node.js REST API to add a BTC ticker to Slack
 - [slack-clicky](https://github.com/joshfarrant/slack-clicky) - Chrome Extension that lets you share links to Slack in a single click
-- [slack-currency](https://github.com/matiassingers/slack-currency) - Slash command for converting currency
+- [slack-currency](https://github.com/matiassingers/slack-currency) - slack command for converting currency
 - [slack-dnd](https://github.com/toddself/slack-dnd) - D&D slash commands for Slack
 - [slack-emoji-randomizer](https://github.com/jasisk/slack-emoji-randomizer) - replace emoji in your messages with random emoji
 - [slack-github](https://github.com/sdslabs/slack-github) - Post github commits to Slack
@@ -171,6 +167,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slack-jira-plugin](https://github.com/gsingers/slack-jira-plugin) - Watches Slack channels for messages about JIRA and acts accordingly
 - [slack-meme](https://github.com/chrismeyersfsu/slack-meme) - Slack meme integration
 - [slack-middle-server](https://github.com/clonn/slack-middle-server) - Intermediate webhook server for Slack
+- [slack-movie](https://github.com/matiassingers/slack-movie) - slack command for getting movie info
 - [slack-news](https://github.com/karan/slack-news) - Read news from multiple sources within Slack by just typing /news
 - [slack-notify](https://github.com/andrewchilds/slack-notify) - A Node.js wrapper around the Slack Webhook API
 - [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokemon battles in Slack
