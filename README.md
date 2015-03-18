@@ -14,7 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slack-currency](https://github.com/matiassingers/slack-currency) - slack command for converting currency
 
 ## Lists
-- [`awesome-open-slack`](https://github.com/tyshgc/awesome-open-slack) - repository of Slack open team list
+- [awesome-open-slack](https://github.com/tyshgc/awesome-open-slack) - repository of Slack open team list
 - [Community-built integrations](https://api.slack.com/community)
 
 ## Themes
@@ -30,7 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [slack-integrations](https://github.com/rikbosch/slack-integrations) - Custom Slack integration scripts
 
-### C\#
+### C&#35;
 
 - [Cake.Slack](https://github.com/WCOMAB/Cake.Slack) - Cake AddIn that extends Cake with Slack messaging features
 - [CCNetSlackPublisher](https://github.com/jrjackso/CCNetSlackPublisher) - Slack integration with CruiseControl.NET
