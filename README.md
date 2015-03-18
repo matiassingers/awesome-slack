@@ -18,7 +18,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Community-built integrations](https://api.slack.com/community)
 
 ## Themes
-- [Slackthemes](http://slackthemes.net/) - *A Slack sidebar theme browser* [*repo*](https://github.com/paracycle/slackthemes)
+- [Slackthemes](http://slackthemes.net/) - A Slack sidebar theme browser
 
 ## Integrations
 
