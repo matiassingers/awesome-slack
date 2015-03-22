@@ -14,6 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Themes
 - [Slackthemes](http://slackthemes.net/) - A Slack sidebar theme browser
+- [Sweet Themes are Made of These](http://sweetthemesaremadeofthe.se/) - site for sharing Slack custom palettes
 
 ## Integrations
 
