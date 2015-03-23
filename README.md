@@ -11,6 +11,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Lists
 - [awesome-open-slack](https://github.com/tyshgc/awesome-open-slack) - repository of Slack open team list
 - [Community-built integrations](https://api.slack.com/community)
+- [slack-emojis](https://github.com/dornerworks/slack-emojis) - images for custom Slack emojis
 
 ## Themes
 - [Slackthemes](http://slackthemes.net/) - A Slack sidebar theme browser
