@@ -11,7 +11,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Lists
 - [awesome-open-slack](https://github.com/tyshgc/awesome-open-slack) - repository of Slack open team list
 - [Community-built integrations](https://api.slack.com/community)
-- [slack-emojis](https://github.com/dornerworks/slack-emojis) - images for custom Slack emojis
 
 ## Themes
 - [Slackthemes](http://slackthemes.net/) - A Slack sidebar theme browser
@@ -290,6 +289,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [relay](https://github.com/matsengrp/relay) - Bare-bones continuous integration using Docker Hub and Slack
 - [slack](https://github.com/kn/slack) - A simple and comprehensive Slack API client
 - [slack-echo-chamber](https://github.com/balloon-studios/slack-echo-chamber) - Crosspost messages from one channel into another
+- [slack-emojis](https://github.com/dornerworks/slack-emojis) - images for custom Slack emojis
 - [slack-imgur](https://github.com/juanpabloaj/slack-imgur) - A random image from Imgur to Slack
 - [slack-w3w](https://github.com/samzhang111/slack-w3w) - Slack Webhook for linking to What3Words
 - [slack-zenoss](https://github.com/ssplatt/slack-zenoss) - A Slack incoming webhook to show events from Zenoss
