@@ -1,4 +1,6 @@
 # awesome-slack
+
+[![Join the chat at https://gitter.im/matiassingers/awesome-slack](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/matiassingers/awesome-slack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > A curated list of awesome Slack related things
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
