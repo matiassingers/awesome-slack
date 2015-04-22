@@ -169,6 +169,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slack-meme](https://github.com/chrismeyersfsu/slack-meme) - Slack meme integration
 - [slack-middle-server](https://github.com/clonn/slack-middle-server) - Intermediate webhook server for Slack
 - [slack-movie](https://github.com/matiassingers/slack-movie) - slack command for getting movie info
+- [slack-nasa](https://github.com/seanrose/slack-nasa) - a slack integration to post the nasa photo of the day
 - [slack-news](https://github.com/karan/slack-news) - Read news from multiple sources within Slack by just typing /news
 - [slack-notify](https://github.com/andrewchilds/slack-notify) - A Node.js wrapper around the Slack Webhook API
 - [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokemon battles in Slack
