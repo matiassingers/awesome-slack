@@ -140,6 +140,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Live-WorldCup-Notification-for-Slack](https://github.com/sbehrends/Live-WorldCup-Notification-for-Slack) - World Cup 2014 notifications
 - [LOUDBOT-SLACK](https://github.com/ceejbot/LOUDBOT-SLACK) - LOUDBOT FOR SLACK
 - [node-slack-cli](https://github.com/juanpabloaj/node-slack-cli) - Send messages to Slack from the command line with nodejs
+- [node-slack-irc](https://github.com/IgorAntun/node-slack-irc) - Node.js solution to integrate IRC chats to Slack
 - [node-slackbot](https://github.com/rmcdaniel/node-slackbot) - Slackbot for node.js using RTM API
 - [node-slackhook](https://github.com/joezo/node-slackhook) - A node module for Slack custom hooks
 - [node-slackr](https://github.com/chenka/node-slackr) - A node.js library for sending messages to Slack
