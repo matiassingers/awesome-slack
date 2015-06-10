@@ -12,6 +12,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [awesome-open-slack](https://github.com/tyshgc/awesome-open-slack) - repository of Slack open team list
 - [Community-built integrations](https://api.slack.com/community)
 
+## Third-party services
+- [Atlassian Stash](https://marketplace.atlassian.com/plugins/be.foreach.stash.notifier) - Send notifications to a Slack channel when a repo push occurs
+- [Drupal](https://drupal.org/project/slack) - Send messages from a Drupal website to Slack
+- [Graylog2](http://www.graylog2.org/plugins/545cc0ace4b0d324cb87ad6d) - Send log alerts to Slack
+- [Slack Message Builder](http://davestevens.github.io/slack-message-builder/) - A tool for previewing how JSON payloads translate to Slack messages
+- [Wordpress Plugin: Caldera Forms Slack Integration](https://calderawp.com/downloads/caldera-forms-slack-integration/) - Get notifications in Slack whenever a Caldera Form is submitted
+- [Wordpress Plugin: Slack](http://wordpress.org/plugins/slack/) - Send notifications to Slack when events occur in WordPress
+- [Wordpress Plugin: bbPress Slack](https://wordpress.org/plugins/bbpress-slack-integration/) - Send notifications of new bbPress topics and replies to Slack
+
 ## Themes
 - [Slackthemes](http://slackthemes.net/) - A Slack sidebar theme browser
 - [Sweet Themes are Made of These](http://sweetthemesaremadeofthe.se/) - site for sharing Slack custom palettes
@@ -453,16 +462,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Zephir
 
 - [zephlack](https://github.com/linxlad/zephlack) - Slack Messaging extension written in Zephir
-
-### Third-party services
-
-- [Atlassian Stash](https://marketplace.atlassian.com/plugins/be.foreach.stash.notifier) - Send notifications to a Slack channel when a repo push occurs
-- [Drupal](https://drupal.org/project/slack) - Send messages from a Drupal website to Slack
-- [Graylog2](http://www.graylog2.org/plugins/545cc0ace4b0d324cb87ad6d) - Send log alerts to Slack
-- [Slack Message Builder](http://davestevens.github.io/slack-message-builder/) - A tool for previewing how JSON payloads translate to Slack messages
-- [Wordpress Plugin: Caldera Forms Slack Integration][361] - Get notifications in Slack whenever a Caldera Form is submitted
-- [Wordpress Plugin: Slack][362] - Send notifications to Slack when events occur in WordPress
-- [Wordpress Plugin: bbPress Slack][363] - Send notifications of new bbPress topics and replies to Slack
 
 
 ## Contribute
