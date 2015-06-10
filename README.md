@@ -48,6 +48,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Drupal](https://drupal.org/project/slack) - Send messages from a Drupal website to Slack
 - [Graylog2](http://www.graylog2.org/plugins/545cc0ace4b0d324cb87ad6d) - Send log alerts to Slack
 - [Slack Message Builder](http://davestevens.github.io/slack-message-builder/) - A tool for previewing how JSON payloads translate to Slack messages
+- [Slacker](http://slacker.nathanhoad.net/) - Post funny replies to Slack as your favourite character
 - [Wordpress Plugin: Caldera Forms Slack Integration](https://calderawp.com/downloads/caldera-forms-slack-integration/) - Get notifications in Slack whenever a Caldera Form is submitted
 - [Wordpress Plugin: Slack](http://wordpress.org/plugins/slack/) - Send notifications to Slack when events occur in WordPress
 - [Wordpress Plugin: bbPress Slack](https://wordpress.org/plugins/bbpress-slack-integration/) - Send notifications of new bbPress topics and replies to Slack
