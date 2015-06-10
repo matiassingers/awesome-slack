@@ -3,6 +3,37 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Table of Contents
+- [Unofficial clients](#unofficial-clients)
+- [Lists](#lists)
+- [Third-party services](#third-party-services)
+- [Themes](#themes)
+- [Integrations](#integrations)
+  - [C](#c)
+  - [C++](#c-1)
+  - [C&#35;](#c-2)
+  - [Clojure](#clojure)
+  - [CoffeeScript](#coffeescript)
+  - [Dart](#dart)
+  - [Erlang](#erlang)
+  - [Go](#go)
+  - [Groovy](#groovy)
+  - [Haskell](#haskell)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Lua](#lua)
+  - [Matlab](#matlab)
+  - [OCaml](#ocaml)
+  - [Perl](#perl)
+  - [PHP](#php)
+  - [Python](#python)
+  - [R](#r)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
+  - [Scala](#scala)
+  - [Shell](#shell)
+  - [Tcl](#tcl)
+  - [Zephir](#zephir)
 
 ## Unofficial clients
 - Linux - https://github.com/wlaurance/slack-for-linux
