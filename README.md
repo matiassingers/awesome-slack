@@ -247,6 +247,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slack.com.js](https://github.com/caseman72/slack.com.js) - Google Chrome extension to make emoticons look better
 - [slack.com.js](https://github.com/caiosba/slack.com.js) (II) - Google Chrome extension to turn issues numbers into links
 - [slackapi-angularjs](https://github.com/nickaranz/slackapi-angularjs) - AngularJS module wrapper for the Slack Web API
+- [slackarma](https://github.com/gdroel/slackarma) - Give your teammates reputation points in Slack
 - [slackbot-says](https://github.com/smilledge/slackbot-says) - Chrome extension to post messages to Slack as Slackbot
 - [slackbotapi](https://github.com/xBytez/slackbotapi) - node.js Slack RTM API module
 - [Slackbots](https://github.com/johnhof/Slackbots) - Slack bots
