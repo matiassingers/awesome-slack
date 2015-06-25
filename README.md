@@ -52,7 +52,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Wordpress Plugin: Caldera Forms Slack Integration](https://calderawp.com/downloads/caldera-forms-slack-integration/) - Get notifications in Slack whenever a Caldera Form is submitted
 - [Wordpress Plugin: Slack](http://wordpress.org/plugins/slack/) - Send notifications to Slack when events occur in WordPress
 - [Wordpress Plugin: bbPress Slack](https://wordpress.org/plugins/bbpress-slack-integration/) - Send notifications of new bbPress topics and replies to Slack
-- [Worktile Events to Slack](https://github.com/cybertk/worktile-events-to-slack) - Forward Worktile events to Slack
 
 ## Themes
 - [Slackthemes](http://slackthemes.net/) - A Slack sidebar theme browser
@@ -149,6 +148,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slackrus](https://github.com/johntdyer/slackrus) - Slack hook for Logrus
 - [slacktogo](https://github.com/oderwat/slacktogo) - Slack Integration Server for distributing channels between different Slack teams
 - [webhook](https://github.com/adnanh/webhook) - Easily run commands in response to HTTP webhook requests from Slack
+- [Worktile Events to Slack](https://github.com/cybertk/worktile-events-to-slack) - Forward Worktile events to Slack
 
 ### Groovy
 
