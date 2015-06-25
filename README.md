@@ -148,7 +148,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slackrus](https://github.com/johntdyer/slackrus) - Slack hook for Logrus
 - [slacktogo](https://github.com/oderwat/slacktogo) - Slack Integration Server for distributing channels between different Slack teams
 - [webhook](https://github.com/adnanh/webhook) - Easily run commands in response to HTTP webhook requests from Slack
-- [Worktile Events to Slack](https://github.com/cybertk/worktile-events-to-slack) - Forward Worktile events to Slack
+- [worktile-events-to-slack](https://github.com/cybertk/worktile-events-to-slack) - Forward Worktile events to Slack
 
 ### Groovy
 
