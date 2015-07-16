@@ -190,6 +190,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [generator-slack-command](https://github.com/matiassingers/generator-slack-command) - [Yeoman](http://yeoman.io/) generator to create a simple Slack slash command server
 - [gif-bot](https://github.com/ms-digital-labs/gif-bot) - A Gif Bot for Slack
 - [giphyslack](https://github.com/dotfury/giphyslack) - Giphy integration for Slack built in node.js
+- [good-slack](https://github.com/dmacosta/good-slack) - Slack Webhook message posting for Good process monitor
 - [grunt-alert](https://github.com/mmarcon/grunt-alert) - Sends alerts about failing builds using different channels
 - [grunt-slack-hook](https://github.com/pwalczyszyn/grunt-slack-hook) - Grunt plugin to send messages to Slack
 - [hublin-slack-integration](https://github.com/linagora/hublin-slack-integration) - Integrate Hubl.in with Slack
