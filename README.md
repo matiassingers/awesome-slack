@@ -440,6 +440,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slack-poster](https://github.com/rikas/slack-poster) - Simple gem to post messages on Slack using webhooks
 - [slack-repeater](https://github.com/hekk/slack-repeater) - Repeater bot
 - [slack-rtmapi](https://github.com/mackwic/slack-rtmapi) - All you need to use the RTM API of Slack
+- [slack-ruby-bot](https://github.com/dblock/slack-ruby-bot) - The easiest way to write a Slack bot in Ruby
+- [slack-ruby-client](https://github.com/dblock/slack-ruby-client) - A Ruby client for the Slack Web and RealTime Messaging APIs
 - [slack-ruby-gem](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API
 - [slack-semaphore-integration](https://github.com/brunoadacosta/slack-semaphore-integration) - Send build status messages from Semaphore to Slack
 - [slack-shuffle](https://github.com/romulomachado/slack-shuffle) - Slack integration for shuffling a list with your team members
