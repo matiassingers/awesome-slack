@@ -237,6 +237,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slack-news](https://github.com/karan/slack-news) - Read news from multiple sources within Slack by just typing /news
 - [slack-notify](https://github.com/andrewchilds/slack-notify) - A Node.js wrapper around the Slack Webhook API
 - [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokemon battles in Slack
+- [slack-poker-bot](https://github.com/CharlieHess/slack-poker-bot) - A bot that deals Texas Hold'em games in Slack
 - [slack-polls](https://github.com/dsifford/slack-polls) - Express.js app for native polling on Slack
 - [slack-pongbot](https://github.com/andrewvy/slack-pongbot) - Slack bot for ping pong tracking
 - [slack-proxy](https://github.com/phamann/slack-proxy) - Simple proxy between AWS SQS queue and Slack
