@@ -48,6 +48,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Drupal](https://drupal.org/project/slack) - Send messages from a Drupal website to Slack
 - [Graylog2](http://www.graylog2.org/plugins/545cc0ace4b0d324cb87ad6d) - Send log alerts to Slack
 - [Slack Message Builder](http://davestevens.github.io/slack-message-builder/) - A tool for previewing how JSON payloads translate to Slack messages
+- [Slack Slash Commands as a Service](https://sscaas.eu/) - Useful tools and API integrations through slash commands.
 - [Slacker](http://slacker.nathanhoad.net/) - Post funny replies to Slack as your favourite character
 - [Wordpress Plugin: Caldera Forms Slack Integration](https://calderawp.com/downloads/caldera-forms-slack-integration/) - Get notifications in Slack whenever a Caldera Form is submitted
 - [Wordpress Plugin: Slack](http://wordpress.org/plugins/slack/) - Send notifications to Slack when events occur in WordPress
@@ -371,6 +372,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [reach-slack-rtm](https://github.com/izdi/react-slack-rtm) - Simple Slack RTM chat built with ReactJS and Django
 - [relay](https://github.com/matsengrp/relay) - Bare-bones continuous integration using Docker Hub and Slack
 - [scudcloud](https://github.com/raelgc/scudcloud/) - Ubuntu client for Slack
+- [sscaas](https://github.com/danielsamuels/sscaas) - Slack Slash Commands as a Service
 - [slack](https://github.com/kn/slack) - A simple and comprehensive Slack API client
 - [slack-echo-chamber](https://github.com/balloon-studios/slack-echo-chamber) - Crosspost messages from one channel into another
 - [slack-emojis](https://github.com/dornerworks/slack-emojis) - images for custom Slack emojis
