@@ -380,6 +380,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slack-overflow](https://github.com/karan/slack-overflow) - Search Stack Overflow right from within Slack
 - [slack\_standup\_snitch](https://github.com/ramanshah/slack_standup_snitch) - A Slack bot that counts the days each user was active on a channel, calling out the inactive users
 - [slack-w3w](https://github.com/samzhang111/slack-w3w) - Slack Webhook for linking to What3Words
+- [slack-workout](https://github.com/brandonshin/slackbot-workout) - A fun hack that gets Slackbot to force your teammates to work out!
 - [slack-zenoss](https://github.com/ssplatt/slack-zenoss) - A Slack incoming webhook to show events from Zenoss
 - [slackard](https://github.com/aelse/slackard) - A bot for Slack
 - [slackbot](https://github.com/lins05/slackbot) - A chat bot for Slack
