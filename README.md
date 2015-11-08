@@ -45,6 +45,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Third-party services
 - [Atlassian Stash](https://marketplace.atlassian.com/plugins/be.foreach.stash.notifier) - Send notifications to a Slack channel when a repo push occurs
+- [Datadog](https://www.datadoghq.com/blog/collaborate-share-track-performance-slack-datadog/) - Send notifications to slack when alerts trigger, and share graphs with your colleagues in chat.
 - [Drupal](https://drupal.org/project/slack) - Send messages from a Drupal website to Slack
 - [Graylog2](http://www.graylog2.org/plugins/545cc0ace4b0d324cb87ad6d) - Send log alerts to Slack
 - [Slack Message Builder](http://davestevens.github.io/slack-message-builder/) - A tool for previewing how JSON payloads translate to Slack messages
