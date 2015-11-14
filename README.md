@@ -47,7 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Atlassian Stash](https://marketplace.atlassian.com/plugins/be.foreach.stash.notifier) - Send notifications to a Slack channel when a repo push occurs
 - [Datadog](https://www.datadoghq.com/blog/collaborate-share-track-performance-slack-datadog/) - Send notifications to slack when alerts trigger, and share graphs with your colleagues in chat.
 - [Drupal](https://www.drupal.org/project/slack) - Send messages from a Drupal website to Slack
-- [Graylog2](https://www.graylog.org/plugins/545cc0ace4b0d324cb87ad6d) - Send log alerts to Slack
+- [Graylog2](https://github.com/Graylog2/graylog-plugin-slack) - Send log alerts to Slack
 - [Slack Message Builder](http://davestevens.github.io/slack-message-builder/) - A tool for previewing how JSON payloads translate to Slack messages
 - [Slack Slash Commands as a Service](https://sscaas.eu/) - Useful tools and API integrations through slash commands.
 - [Slacker](http://slacker.nathanhoad.net/) - Post funny replies to Slack as your favourite character
@@ -215,7 +215,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slack-assembla-plugin](https://github.com/Ramzi-Alqrainy/slack-assembla-plugin) - Watches Slack channels for messages about Assembla and acts accordingly
 - [slack-bill-sharing](https://github.com/gsellator/slack-bill-sharing) - Bill sharing bot for Slack
 - [slack-bot-api](https://github.com/mishk0/slack-bot-api) - Simple way to control your Slack Bot
-- [slack-brewbow](https://github.com/swirlycheetah/slack-brewbot) - Whose turn is it to make a brew? Let BrewBot decide
+- [slack-brewbot](https://github.com/swirlycheetah/slack-brewbot) - Whose turn is it to make a brew? Let BrewBot decide
 - [slack-btc](https://github.com/hkarthik/slack-btc) - Simple node.js REST API to add a BTC ticker to Slack
 - [slack-chat](https://improvi.github.io/slack-chat/) - A support chat feature for your website that integrates with Slack
 - [slack-cli](https://github.com/candrholdings/slack-cli) - A command line interface for Slack using node
@@ -251,7 +251,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slack-webex-plugin](https://github.com/gsingers/slack-webex-plugin) - Launch a Webex Personal Room or other type of meeting from Slack
 - [slack-yandex-api](https://github.com/wearegoat/slack-yandex-api) - Simple server app for Yandex API and Slack integration
 - [slack.com.js](https://github.com/caseman72/slack.com.js) - Google Chrome extension to make emoticons look better
-- [slack.com.js](https://github.com/caiosba/slack-issue-tracker-parser) (II) - Google Chrome extension to turn issues numbers into links
+- [slack-issue-tracker-parser](https://github.com/caiosba/slack-issue-tracker-parser) (II) - A Google Chrome extension to turn issues numbers into links to the issue on an issue tracker
 - [slackapi-angularjs](https://github.com/nickaranz/slackapi-angularjs) - AngularJS module wrapper for the Slack Web API
 - [slackarma](https://github.com/gdroel/slackarma) - Give your teammates reputation points in Slack
 - [slackbot-says](https://github.com/smilledge/slackbot-says) - Chrome extension to post messages to Slack as Slackbot
@@ -357,8 +357,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [django-slack](https://github.com/lamby/django-slack) - Slack integration for Django, using the templating engine to generate messages
 - [django-utils](https://github.com/themotleyfool/django-utils) - Django utilities
 - [django-slack-oauth](https://github.com/izdi/django-slack-oauth) - Slack OAuth module for Django
-- [edie-slack](https://github.com/christinac/ellie-slack) - Eliza's younger, hipper, psychobabble-friendly successor as a Slackbot
-- [err](https://github.com/errbotio/errbot) - A plugin-based chatbot designed to be easily deployable, extensible and maintainable
+- [ellie-slack](https://github.com/christinac/ellie-slack) - Eliza's younger, hipper, psychobabble-friendly successor as a Slackbot
+- [errbot](https://github.com/errbotio/errbot) - A plugin-based chatbot designed to be easily deployable, extensible and maintainable
 - [flask-slack](https://github.com/VeryCB/flask-slack) - Flask extension which makes it easy to interact with Slack slash commands
 - [fs-slack](https://github.com/slackhappy/fs-slack) - Silly slash command synthesis for Slack
 - [gmail2slack](https://github.com/brooksc/gmail2slack) - Send a Slack notification whenever a new gmail arrives
@@ -474,7 +474,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [tickbot](https://github.com/barryf/tickbot) - Simple team time tracking reminder
 - [trebekbot](https://github.com/gesteves/trebekbot) - A Jeopardy! bot for Slack
 - [vip-notify](https://github.com/doejo/vip-notify) - Send VIP deployment notifications to Slack
-- [webistrano\_slack](https://github.com/caiosba/slack-webistrano) - Send Webistrano deploys to Slack
+- [slack-webistrano](https://github.com/caiosba/slack-webistrano) - Send Webistrano deploys to Slack
 - [yobot](https://github.com/voxmedia/yobot) - YOs a Slack channel of your choice
 
 ### Rust
