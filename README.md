@@ -326,7 +326,7 @@
 - [slack-sdk](https://packagist.org/packages/threadmeup/slack-sdk) - PHP SDK
 - [slack-tea](https://github.com/liquidlight/slack-tea) - Decide who makes the tea using Slack
 - [slack-webhooks](https://github.com/Xeonys/slack-webhooks) - Easily add service with webhooks integration in Slack
-- [slack-wordpress](https://github.com/erayalakese/slack-wordpress) ([Wordpress Plugin](https://wordpress.org/plugins/slack/)) - Wordpress integration for Slack
+- [slack-wordpress](https://github.com/erayalakese/slack-wordpress) - Wordpress integration for Slack
 - [SlackAgainstHumanity](https://github.com/michaeljhopkins/SlackAgainstHumanity) - A laravel 5 package for playing Cards Against Humanity in your Slack channel
 - [SlackBundle](https://github.com/DZunke/SlackBundle) - SlackBundle for Symfony2
 - [slackcamp](https://github.com/jamescarlos/slackcamp) - Post Basecamp events to Slack
