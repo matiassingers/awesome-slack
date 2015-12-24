@@ -1,8 +1,6 @@
 # awesome-slack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of awesome Slack related things
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-
 ## Table of Contents
 - [Unofficial clients](#unofficial-clients)
 - [Lists](#lists)
@@ -44,7 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Community-built integrations](https://api.slack.com/community)
 
 ## Third-party services
-- [Atlassian Stash](https://marketplace.atlassian.com/plugins/be.foreach.stash.notifier) - Send notifications to a Slack channel when a repo push occurs
+- [Atlassian Stash](https://marketplace.atlassian.com/plugins/be.foreach.stash.notifier/server/overview) - Send notifications to a Slack channel when a repo push occurs
 - [Datadog](https://www.datadoghq.com/blog/collaborate-share-track-performance-slack-datadog/) - Send notifications to slack when alerts trigger, and share graphs with your colleagues in chat.
 - [Drupal](https://www.drupal.org/project/slack) - Send messages from a Drupal website to Slack
 - [Graylog2](https://github.com/Graylog2/graylog-plugin-slack) - Send log alerts to Slack
@@ -93,21 +91,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [clj-slack-client](https://github.com/tonyvanriet/clj-slack-client) - A Clojure client for the Slack RTM and Web APIs
 - [lunch-bot](https://github.com/tonyvanriet/lunch-bot) - A Slack bot that manages group lunch activities
 - [markov-chainz](https://github.com/sorenmacbeth/markov-chainz) - A Markov chain bot written in Clojure
-- [slack-bot](https://github.com/jcsims/slack-bot) - Clojure Heroku Bot
 - [slack-hooks](https://github.com/papertrail/slack-hooks) - Papertrail's collection of webhook receivers for Slack
 - [slack.clj](https://gist.github.com/mikebroberts/9604828) - Example of sending a message to Slack from Clojure
 - [slacks](https://github.com/pnf/slacks) - Deliver quotes to a Slack channel
 
 ### CoffeeScript
 
-- [birthday\_reminder](https://gist.github.com/Linell/61f85462aa4604c5722d) - Remember your team members' birthdays
 - [bugsnag-notification-plugins](https://github.com/bugsnag/bugsnag-notification-plugins) - Notification plugins for Bugsnag error tracker
 - [gifmatic](https://github.com/adammulligan/gifmatic) - Search Giphy and send a matching image back to Slack
 - [hubot-basecamp](https://github.com/hubot-scripts/hubot-basecamp) - Expands Basecamp URLs in chat with more useful information
 - [humors](https://github.com/AugustMiller/humors) - Custom Hubot
 - [jinora](https://github.com/sdslabs/jinora) - Slack webhook app to create anonymous public channels
 - [pr2slack](https://github.com/ohwillie/pr2slack) - Non-spammy pull request messages
-- [regi](https://github.com/twosevenzero/regi) - Custom Hubot
 - [slack-api-client](https://github.com/germanrcuriel/slack-api-client) - A Slack API client for node.js
 - [slack-node-sdk](https://github.com/clonn/slack-node-sdk) - Slack Node SDK with Webhook and API support
 - [slacker](https://github.com/cmalven/slacker) - Meteor-based API for Slack commands
@@ -200,6 +195,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [irc-slack-echo](https://github.com/rknLA/irc-slack-echo) - Echoes IRC activity to Slack, and supports IRC/Slack username mapping
 - [Live-WorldCup-Notification-for-Slack](https://github.com/sbehrends/Live-WorldCup-Notification-for-Slack) - World Cup 2014 notifications
 - [LOUDBOT-SLACK](https://github.com/ceejbot/LOUDBOT-SLACK) - LOUDBOT FOR SLACK
+- [nasa-slack](https://github.com/seanrose/nasa-slack) - a slack integration to post the nasa photo of the day
 - [node-slack-cli](https://github.com/juanpabloaj/node-slack-cli) - Send messages to Slack from the command line with nodejs
 - [node-slack-irc](https://github.com/IgorAntun/node-slack-irc) - Node.js solution to integrate IRC chats to Slack
 - [node-slackbot](https://github.com/rmcdaniel/node-slackbot) - Slackbot for node.js using RTM API
@@ -209,6 +205,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Notifications for Fluid](https://gist.github.com/banderson623/81889e7764da84f32112) - Use native notification center for Slack in fluid.app
 - [Overcast](https://github.com/andrewchilds/overcast) - A SSH-based cloud management CLI with Slack support
 - [passport-slack](https://github.com/mjpearson/passport-slack) - Slack OAuth2 strategy for Passport
+- [skynet](https://github.com/johnhof/skynet) - A framework for slack bots
 - [Send-to-Slack](https://github.com/shahruz/Send-to-Slack) - A plugin for Sketch.app to share artboards to Slack
 - [slack-alias-plugin](https://github.com/gsingers/slack-alias-plugin) - Auto-expand mentions of certain aliases to their respective users
 - [slack-api](https://github.com/ustice/slack-api) - a javascript wrapper for the Slack API
@@ -226,7 +223,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slack-github](https://github.com/sdslabs/slack-github) - Post github commits to Slack
 - [slack-harvest](https://github.com/Neverbland/slack-harvest) - Send a daily Slack message with a list of tracked time from Harvest
 - [slack-integrations](https://github.com/CollectiveDS/slack-integrations) - The Collective Digital Studio Slack integration server
-- [Slack-Integrations](https://github.com/BraveUX/Slack-Integrations) - A few Slack integrations by BraveUX
 - [slack-integrator](https://github.com/way2-technology/slack-integrator) - Easily integrate Slack with your apps!
 - [slack-invite](https://github.com/wski/slack-invite) - Invite people to your awesome slack group
 - [slack-irc](https://github.com/ekmartin/slack-irc) - Connects Slack and IRC channels by sending messages back and forth
@@ -235,7 +231,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slack-meme](https://github.com/chrismeyersfsu/slack-meme) - Slack meme integration
 - [slack-middle-server](https://github.com/clonn/slack-middle-server) - Intermediate webhook server for Slack
 - [slack-movie](https://github.com/matiassingers/slack-movie) - slack command for getting movie info
-- [slack-nasa](https://github.com/seanrose/slack-nasa) - a slack integration to post the nasa photo of the day
 - [slack-news](https://github.com/karan/slack-news) - Read news from multiple sources within Slack by just typing /news
 - [slack-notify](https://github.com/andrewchilds/slack-notify) - A Node.js wrapper around the Slack Webhook API
 - [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokemon battles in Slack
@@ -256,12 +251,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slackarma](https://github.com/gdroel/slackarma) - Give your teammates reputation points in Slack
 - [slackbot-says](https://github.com/smilledge/slackbot-says) - Chrome extension to post messages to Slack as Slackbot
 - [slackbotapi](https://github.com/xBytez/slackbotapi) - node.js Slack RTM API module
-- [Slackbots](https://github.com/johnhof/Slackbots) - Slack bots
 - [slackbox](https://github.com/benchmarkstudios/slackbox) - Spotify playlist collaboration through Slack
 - [SlackChannelTrafficIndicator](https://github.com/kjpluck/SlackChannelTrafficIndicator) - Chrome extension that plots the traffic in Slack channels
 - [slackdraw](https://github.com/caiosba/slack-draw) - A Google Chrome extension to draw and share the drawings on Slack
 - [slackey](https://github.com/FredKSchott/slackey) - A JavaScript SDK for the Slack API
-- [slackihook](https://github.com/keyvanfatehi/slackihook) - Send incoming webhooks to Slack with Node.js
+- [slackihook](https://github.com/kfatehi/slackihook) - Send incoming webhooks to Slack with Node.js
 - [slackin](http://rauchg.com/slackin/) - Public Slack organizations made easy
 - [slacklink](https://github.com/robjmills/slacklink) - Post links to Slack from Chrome
 - [slackr-bot](https://github.com/tal/slackr-bot) - A node module for making bots that use the Slack RTM API
@@ -332,7 +326,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slack-sdk](https://packagist.org/packages/threadmeup/slack-sdk) - PHP SDK
 - [slack-tea](https://github.com/liquidlight/slack-tea) - Decide who makes the tea using Slack
 - [slack-webhooks](https://github.com/Xeonys/slack-webhooks) - Easily add service with webhooks integration in Slack
-- [slack-wordpress](https://github.com/erayalakese/slack-wordpress) ([Wordpress Plugin](https://wordpress.org/plugins/slack-integration/)) - Wordpress integration for Slack
+- [slack-wordpress](https://github.com/erayalakese/slack-wordpress) - Wordpress integration for Slack
 - [SlackAgainstHumanity](https://github.com/michaeljhopkins/SlackAgainstHumanity) - A laravel 5 package for playing Cards Against Humanity in your Slack channel
 - [SlackBundle](https://github.com/DZunke/SlackBundle) - SlackBundle for Symfony2
 - [slackcamp](https://github.com/jamescarlos/slackcamp) - Post Basecamp events to Slack
@@ -355,7 +349,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [butterfield](https://github.com/sunlightlabs/butterfield) - Python Slack bot framework using asyncio and Slack's RTM API
 - [changetip-slack](https://github.com/changecoin/changetip-slack) - ChangeTip Slack Tip bot
 - [django-slack](https://github.com/lamby/django-slack) - Slack integration for Django, using the templating engine to generate messages
-- [django-utils](https://github.com/themotleyfool/django-utils) - Django utilities
 - [django-slack-oauth](https://github.com/izdi/django-slack-oauth) - Slack OAuth module for Django
 - [ellie-slack](https://github.com/christinac/ellie-slack) - Eliza's younger, hipper, psychobabble-friendly successor as a Slackbot
 - [errbot](https://github.com/errbotio/errbot) - A plugin-based chatbot designed to be easily deployable, extensible and maintainable
@@ -517,6 +510,6 @@ Please read the [contribution guidelines](contributing.md) first.
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Matias Singers](http://mts.io) has waived all copyright and related or neighboring rights to this work.
