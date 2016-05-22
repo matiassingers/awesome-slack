@@ -388,7 +388,7 @@
 - [slackfred](https://github.com/fspinillo/slackfred) - Interact with Slack via Alfred
 - [slackotron](https://github.com/lettier/slackotron) - A Slack bot customizable via plugins
 - [slackpy](https://github.com/iktakahiro/slackpy) - Slack client library for specific logging
-- [slacksocket](https://github.com/bcicen/slacksocket) - Python interface to the Slack RTM API
+- [slacksocket](https://github.com/vektorlab/slacksocket) - Python interface to the Slack RTM API
 - [slouch](https://github.com/venmo/slouch) - Lightweight Python framework for building cli-inspired Slack bots
 - [StackStorm Slack Pack](https://github.com/StackStorm/st2contrib/tree/master/packs/slack) - Pack which allows integration with Slack service.
 - [sublime-slack-integration](https://github.com/simion/sublime-slack-integration) - Post to Slack from Sublime Text 3
