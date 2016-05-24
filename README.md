@@ -66,6 +66,7 @@
 
 ### C++
 
+- [Slacking](https://github.com/coin-au-carre/slacking) - A modern C++11 interface for the Slack Web API
 - [slack-integrations](https://github.com/rikbosch/slack-integrations) - Custom Slack integration scripts
 
 ### C&#35;
