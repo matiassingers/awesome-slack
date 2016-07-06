@@ -53,6 +53,7 @@
 - [Wordpress Plugin: Caldera Forms Slack Integration](https://calderawp.com/downloads/caldera-forms-slack-integration/) - Get notifications in Slack whenever a Caldera Form is submitted
 - [Wordpress Plugin: Slack](https://wordpress.org/plugins/slack/) - Send notifications to Slack when events occur in WordPress
 - [Wordpress Plugin: bbPress Slack](https://wordpress.org/plugins/bbpress-slack-integration/) - Send notifications of new bbPress topics and replies to Slack
+- [ServiceNow](http://joeyday.com/2015/03/02/integrating-servicenow-with-slack/) - Integrating ServiceNow with Slack
 
 ## Themes
 - [Slackthemes](http://slackthemes.net/) - A Slack sidebar theme browser
@@ -101,6 +102,7 @@
 - [bugsnag-notification-plugins](https://github.com/bugsnag/bugsnag-notification-plugins) - Notification plugins for Bugsnag error tracker
 - [gifmatic](https://github.com/adammulligan/gifmatic) - Search Giphy and send a matching image back to Slack
 - [hubot-basecamp](https://github.com/hubot-scripts/hubot-basecamp) - Expands Basecamp URLs in chat with more useful information
+- [hubot-slack](https://github.com/slackhq/hubot-slack) - Slack adapter for Hubot
 - [humors](https://github.com/AugustMiller/humors) - Custom Hubot
 - [jinora](https://github.com/sdslabs/jinora) - Slack webhook app to create anonymous public channels
 - [pr2slack](https://github.com/ohwillie/pr2slack) - Non-spammy pull request messages
