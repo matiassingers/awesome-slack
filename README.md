@@ -414,6 +414,7 @@
 - [chef-slack\_handler](https://github.com/dcm-ops/chef-slack_handler) - Chef handler for Slack
 - [dogetip-slack](https://github.com/tenforwardconsulting/dogetip-slack) - Sinatra app to enable Dogecoin tipping via slack
 - [doorbell-server](https://github.com/Lostmyname/doorbell-server) - Simple Sinatra app which acts a bridge between Slack and the LMN doorbell
+- [emojifier-slack-bot](https://github.com/Bogidon/emojifier-slack-bot) - Add emoji to your Slack from a URL
 - [fastlane](https://github.com/fastlane/fastlane) - iOS deployment workflow that posts notifications to Slack
 - [gifbot](https://github.com/schuyler/gifbot) - Integrated animated GIF search for Slack
 - [hatebu-hooker](https://github.com/kmrshntr/hatebu-hooker) - Post Hatena::Bookmark to Slack
