@@ -459,6 +459,7 @@
 - [slackistrano](https://github.com/phallstrom/slackistrano) - Send Capistrano deployment messages to Slack
 - [slackr](https://github.com/risk-io/slackr) - Talk to Slack from Ruby
 - [slackr-gif-bot](https://github.com/brianjriddle/slackr-gif-bot) - Listens for requests and posts GIFs back to a Slack channel
+- [slash-heroku](https://github.com/atmos/slash-heroku) - Run heroku commands in Slack.
 - [Slackvant](https://github.com/nh7a/Slackvant) - A simple Slack bot system
 - [slightly-weird](https://github.com/willrax/slightly-weird) - Uploads pictures of users, uses SQS
 - [snarkov](https://github.com/gesteves/snarkov) - Sinatra-based Markov bot for Slack
