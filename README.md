@@ -313,7 +313,7 @@
 - [monolog](https://github.com/Seldaek/monolog) - Sends your logs to Slack
 - [notifyme](https://github.com/notifymehq/notifyme) - Provides a common interface for notification services
 - [opauth-slack](https://github.com/t1mmen/opauth-slack) - Slack authentication strategy for Opauth
-- [Packagist Bot](https://github.com/svenluijten/slack-packagist) - Bot to quickly search Packagist.
+- [Packagist Bot](https://pkgst.co) - Bot to quickly search Packagist.
 - [phlack](https://github.com/mcrumm/phlack) - PHP API Wrapper
 - [php-slack](https://github.com/Frlnc/php-slack) - A lightweight PHP implementation of Slack's API
 - [PHP-Slack](https://github.com/ConnorVG/PHP-Slack) - PHP API Wrapper with Laravel support
