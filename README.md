@@ -253,6 +253,7 @@
 - [slackbot-says](https://github.com/smilledge/slackbot-says) - Chrome extension to post messages to Slack as Slackbot
 - [slackbotapi](https://github.com/xBytez/slackbotapi) - node.js Slack RTM API module
 - [slackbox](https://github.com/benchmarkstudios/slackbox) - Spotify playlist collaboration through Slack
+- [Slackbotify](https://github.com/Slackbotify/slackbotify) - Simple slackbot framework.
 - [SlackChannelTrafficIndicator](https://github.com/kjpluck/SlackChannelTrafficIndicator) - Chrome extension that plots the traffic in Slack channels
 - [slackdraw](https://github.com/caiosba/slack-draw) - A Google Chrome extension to draw and share the drawings on Slack
 - [slackey](https://github.com/FredKSchott/slackey) - A JavaScript SDK for the Slack API
