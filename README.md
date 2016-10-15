@@ -206,6 +206,7 @@
 - [Notifications for Fluid](https://gist.github.com/banderson623/81889e7764da84f32112) - Use native notification center for Slack in fluid.app
 - [Overcast](https://github.com/andrewchilds/overcast) - A SSH-based cloud management CLI with Slack support
 - [passport-slack](https://github.com/mjpearson/passport-slack) - Slack OAuth2 strategy for Passport
+- [Potato](https://github.com/RolfKoenders/potato) - Slackbot for couchpotato.
 - [skynet](https://github.com/johnhof/skynet) - A framework for slack bots
 - [Send-to-Slack](https://github.com/shahruz/Send-to-Slack) - A plugin for Sketch.app to share artboards to Slack
 - [slack-alias-plugin](https://github.com/gsingers/slack-alias-plugin) - Auto-expand mentions of certain aliases to their respective users
