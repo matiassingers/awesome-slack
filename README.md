@@ -322,6 +322,7 @@
 - [rocketeer-slack](https://github.com/rocketeers/rocketeer-slack) - Slack plugin for Rocketeer
 - [Shooker](https://github.com/jwenzler/Shooker) - Slack WebHooks PHP Class
 - [Slack](https://github.com/maknz/slack) - Laravel 4 package for sending messages to Slack
+- [SlackBot](https://github.com/mpociot/slackbot) - Framework agnostic PHP library to build Slack Bots
 - [slack-api](https://github.com/10w042/slack-api) - A super simple wrapper for the Slack API
 - [slack-notifier](https://github.com/polem/slack-notifier) - Simple PHP wrapper for Slack notifications
 - [slack-sdk](https://packagist.org/packages/threadmeup/slack-sdk) - PHP SDK
