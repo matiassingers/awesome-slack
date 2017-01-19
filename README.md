@@ -112,6 +112,10 @@
 
 - [dart-slack](https://github.com/ChildrenOfUr/dart-slack) - Dart interface to the Webhook API
 
+### Elixir
+
+- [Elixir-Slack](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging and web API client in Elixir
+
 ### Erlang
 
 - [slacker](https://github.com/julienXX/slacker) - Erlang Slack REST API wrapper
