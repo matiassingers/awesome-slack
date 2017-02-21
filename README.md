@@ -36,7 +36,6 @@
 ## Unofficial clients
 - Linux - [PlaidChat](https://github.com/plaidchat/plaidchat)
 - Linux - [ScudCloud](https://github.com/raelgc/scudcloud)
-- Windows - [SlackUI](https://github.com/rfgamaral/SlackUI)
 
 ## Lists
 - [awesome-open-slack](https://github.com/tyshgc/awesome-open-slack) - repository of Slack open team list
