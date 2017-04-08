@@ -174,6 +174,7 @@
 
 ### JavaScript
 
+- [git-standup-slackbot](https://github.com/tobiasbueschel/git-standup-slackbot) - See all your commits in the last 24h right within Slack
 - [bip-pod-slack](https://github.com/bipio-server/bip-pod-slack) - Slack Pod for BipIO
 - [bitbucket-slack-pr-hook](https://github.com/lfilho/bitbucket-slack-pr-hook) - Receive Pull Request notifications from BitBucket and send them to Slack
 - [brackets-slacksnippet](https://github.com/Wikunia/brackets-slacksnippet) - push code snippets from Brackets to a slack channel
