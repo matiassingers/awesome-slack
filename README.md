@@ -41,6 +41,7 @@
 ## Lists
 - [awesome-open-slack](https://github.com/tyshgc/awesome-open-slack) - repository of Slack open team list
 - [Community-built integrations](https://api.slack.com/community)
+- [Twitter's Most Shared '#slack' Content in a Simple Weekly Digest](http://theherdlocker.com/tweet/popularity/slack) via The Herd Locker
 
 ## Third-party services
 - [Atlassian Stash](https://marketplace.atlassian.com/plugins/be.foreach.stash.notifier/server/overview) - Send notifications to a Slack channel when a repo push occurs
