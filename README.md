@@ -276,6 +276,7 @@
 - [swolebot](https://github.com/robinpowered/swolebot) - A Slack bot for keeping your team fit through open pull requests
 - [terminal-slack](https://github.com/evanyeung/terminal-slack) - Terminal client for Slack
 - [tesla-slack](https://github.com/heikkipora/tesla-slack) - Track your Tesla from Slack
+- [Scooby: team online alterer bot](https://github.com/r0hi7/Scooby) - Snoops your team mates to come online, in case you need to have call and or DM :)
 
 ### Lua
 
