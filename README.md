@@ -136,6 +136,7 @@
 - [slack-markov](https://github.com/grantmd/slack-markov) - A markov chain bot for your Slack channel
 - [slack-oldbot](https://github.com/grantmd/slack-oldbot) - A bot for Slack that politely reports when a link has been used before in the channel
 - [slack-upvote](https://github.com/tampajohn/slack-upvote) - Slack voting integration
+- [slackbot-for-rancher](http://github.com/slack-bot-4all/slack-bot) - just a little BOT created to integrate Slack with Rancher 1.6 
 - [slackbot](https://github.com/collinvandyck/slackbot) - A silly little slackhq robot
 - [slackbot](https://github.com/trinchan/slackbot) (II) - Framework for building slash commands for Slack
 - [slackcat](https://github.com/paulhammond/slackcat) - Post messages to Slack from the command line
