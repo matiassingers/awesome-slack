@@ -46,6 +46,7 @@
 - [Atlassian Stash](https://marketplace.atlassian.com/plugins/be.foreach.stash.notifier/server/overview) - Send notifications to a Slack channel when a repo push occurs
 - [Datadog](https://www.datadoghq.com/blog/collaborate-share-track-performance-slack-datadog/) - Send notifications to slack when alerts trigger, and share graphs with your colleagues in chat.
 - [Drupal](https://www.drupal.org/project/slack) - Send messages from a Drupal website to Slack
+- [GitRise](https://www.gitrise.com/) - Slack reminders for GitHub code reviews.
 - [Graylog2](https://github.com/Graylog2/graylog-plugin-slack) - Send log alerts to Slack
 - [Slack Message Builder](http://davestevens.github.io/slack-message-builder/) - A tool for previewing how JSON payloads translate to Slack messages
 - [Slack Slash Commands as a Service](https://sscaas.eu/) - Useful tools and API integrations through slash commands.
