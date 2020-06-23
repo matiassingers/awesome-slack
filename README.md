@@ -347,6 +347,7 @@
 ### Python
 
 - [asterisk-slack](https://github.com/firehooper/asterisk-slack) - Publishes Asterisk call information to Slack
+- [blockkit-slack](https://github.com/oneor0/blockkit-slack) - A fast way to build Block Kit interfaces in Python
 - [butterfield](https://github.com/sunlightlabs/butterfield) - Python Slack bot framework using asyncio and Slack's RTM API
 - [changetip-slack](https://github.com/changecoin/changetip-slack) - ChangeTip Slack Tip bot
 - [django-slack](https://github.com/lamby/django-slack) - Slack integration for Django, using the templating engine to generate messages
