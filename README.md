@@ -44,6 +44,7 @@
 
 ## Third-party services
 - [Atlassian Stash](https://marketplace.atlassian.com/plugins/be.foreach.stash.notifier/server/overview) - Send notifications to a Slack channel when a repo push occurs
+- [CTO.ai] (https://cto.ai) - Slack-first developer workflow automation platform.
 - [Datadog](https://www.datadoghq.com/blog/collaborate-share-track-performance-slack-datadog/) - Send notifications to slack when alerts trigger, and share graphs with your colleagues in chat.
 - [Drupal](https://www.drupal.org/project/slack) - Send messages from a Drupal website to Slack
 - [Graylog2](https://github.com/Graylog2/graylog-plugin-slack) - Send log alerts to Slack
