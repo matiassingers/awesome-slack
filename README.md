@@ -34,7 +34,7 @@
   - [Zephir](#zephir)
 
 ## Unofficial clients
-- Linux - [PlaidChat](https://github.com/plaidchat/plaidchat)
+- Linux - [PlaidChat](https://github.com/plaidchat/plaidchat) - no longer maintained
 - Linux - [ScudCloud](https://github.com/raelgc/scudcloud)
 - Windows - [SlackUI](https://github.com/rfgamaral/SlackUI)
 
