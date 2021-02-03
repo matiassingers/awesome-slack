@@ -53,6 +53,7 @@
 - [Wordpress Plugin: Caldera Forms Slack Integration](https://calderawp.com/downloads/caldera-forms-slack-integration/) - Get notifications in Slack whenever a Caldera Form is submitted
 - [Wordpress Plugin: Slack](https://wordpress.org/plugins/slack/) - Send notifications to Slack when events occur in WordPress
 - [Wordpress Plugin: bbPress Slack](https://wordpress.org/plugins/bbpress-slack-integration/) - Send notifications of new bbPress topics and replies to Slack
+- [Slack Emojis](https://emoji.gg) - Thousands of custom emojis for Slack
 
 ## Themes
 - [Slackthemes](http://slackthemes.net/) - A Slack sidebar theme browser
