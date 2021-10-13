@@ -33,7 +33,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
   - [Ruby](#ruby)
   - [Scala](#scala)
   - [Shell](#shell)
-- [:robot_face: Open-Source Slack Apps and Integrations](#robot_face-nbsp-open-source-slack-apps-and-integrations) 
+- [:gear: Open-Source Slack Apps and Integrations](#gear-nbsp-open-source-slack-apps-and-integrations) 
 
 ## :pencil: &nbsp; Lists
 - [Community-Built Libraries](https://api.slack.com/community) - Slack-curated list of community open-source libraries
@@ -119,7 +119,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 - [slacktee](https://github.com/course-hero/slacktee) - A bash script that works like _tee_ command
 
-## :robot_face: &nbsp; Open-Source Slack Apps and Integrations
+## :gear: &nbsp; Open-Source Slack Apps and Integrations
 
 ## Contribute
 
