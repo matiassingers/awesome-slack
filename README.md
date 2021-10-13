@@ -19,7 +19,9 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [:pencil: Lists](#pencil-nbsp-lists)
 - [:art: Themes](#art-nbsp-themes)
 - [:hammer_and_wrench: Libraries and SDKs](#hammer_and_wrench-nbsp-libraries-and-sdks)
-- [:gear: Open-Source Slack Apps and Integrations](#gear-nbsp-open-source-slack-apps-and-integrations) 
+- [:gear: Open-Source Slack Apps and Integrations](#gear-nbsp-open-source-slack-apps-and-integrations)
+- [:heavy_plus_sign: Contributions](#heavy_plus_sign-nbsp-contributions)
+- [:page_facing_up: License](#page_facing_up-nbsp-license)
 
 ## :pencil: &nbsp; Lists
 - [Community-Built Libraries](https://api.slack.com/community) - Slack-curated list of community open-source libraries
@@ -34,17 +36,9 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### C&#35;
 
-- [margiebot](https://github.com/jammerware/margiebot/wiki) - A .NET library designed to make building bots for Slack fast, easy, and fun
-- [Slack.Webhooks](https://github.com/nerdfury/Slack.Webhooks) - Even simpler integration with Slack's Incoming / Outgoing webhooks
-- [SlackAPI](https://github.com/Inumedia/SlackAPI) - Full Slack API library, including WebSockets
-
-### Clojure
-
-- [clj-slack](https://github.com/julienXX/clj-slack) - Use Slack REST API from Clojure
-
-### CoffeeScript
-
-- [jinora](https://github.com/sdslabs/jinora) - Slack webhook app to create anonymous public channels
+- [margiebot](https://github.com/jammerware/margiebot) - A .NET library designed to make building bots for Slack fast, easy, and fun
+- [Slack.Webhooks](https://github.com/nerdfury/Slack.Webhooks) - A library to work with Slack webhooks more easily
+- [SlackAPI](https://github.com/Inumedia/SlackAPI) - A third-party implementation of Slack's API written in C#
 
 ### Erlang
 
@@ -58,28 +52,29 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 - [simple-slack-api](https://github.com/Ullink/simple-slack-api) - A Slack client library in Java
 
-### JavaScript
+### JavaScript/TypeScript
 
-- [slack-bot-api](https://github.com/mishk0/slack-bot-api) - Simple way to control your Slack Bot   
-- [tesla-slack](https://github.com/heikkipora/tesla-slack) - Track your Tesla from Slack
+- [bolt-js](https://github.com/slackapi/bolt-js) - Slack's official JavaScript framework for building Slack apps
+- [jsx-slack](https://github.com/yhatt/jsx-slack) - Build JSON object for Slack Block Kit surfaces from JSX
+- [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack's official SDK for Node.js 
+- [slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI
 
 ### PHP
 
-- [MantisBT-Slack](https://github.com/infojunkie/MantisBT-Slack) - MantisBT plugin to send bug updates to Slack
-- [monolog](https://github.com/Seldaek/monolog) - Sends your logs to Slack  
-- [SlackBundle](https://github.com/DZunke/SlackBundle) - SlackBundle for Symfony2   
+- [SlackBundle](https://github.com/DZunke/SlackBundle) - SlackBundle for Symfony2
+- [slack-php-app-framework](https://github.com/slack-php/slack-php-app-framework) - Robust PHP framework for building Slack apps in PHP
+- [slack-php-block-kit](https://github.com/jeremeamia/slack-block-kit) - Fluent interface for composing Slack Block Kit messages and modals in PHP 
+- [slack-php-socket-mode](https://github.com/slack-php/slack-php-socket-mode) - A Socket Mode implementation for [slack-php-app-framework](https://github.com/slack-php/slack-php-app-framework)
+- [slack-php-slick](https://github.com/slack-php/slack-php-slick) - Dependency-free micro-framework for building Slack apps in PHP   
 
 ### Python
 
+- [bolt-python](https://github.com/slackapi/bolt-python) - Slack's official Python framework for building Slack apps
 - [django-slack](https://github.com/lamby/django-slack) - Slack integration for Django, using the templating engine to generate messages
 - [django-slack-oauth](https://github.com/izdi/django-slack-oauth) - Slack OAuth module for Django
-- [errbot](https://github.com/errbotio/errbot) - A plugin-based chatbot designed to be easily deployable, extensible and maintainable
-- [limbo](https://github.com/llimllib/limbo) - A simple, clean, easy-to-modify Slack chatbot
-- [mqttwarn](https://github.com/jpmens/mqttwarn#slack) - Notify Slack from MQTT
-- [python-slackclient](https://github.com/slackhq/python-slackclient) ([pypi](https://pypi.python.org/pypi/slackclient/0.13)) - A basic client for Slack, which can optionally connect to the RTM API
-- [slackbot](https://github.com/lins05/slackbot) - A chat bot for Slack
+- [python-slack-events-api](https://github.com/slackapi/python-slack-events-api) - Slack Events API adapter for Python 
+- [python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack's official SDK for Python
 - [slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from the command line
-- [wee-slack](https://github.com/rawdigits/wee-slack) - A WeeChat plugin for Slack
 
 ### R
 
@@ -87,32 +82,53 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Ruby
 
-- [slack-gamebot](https://github.com/dblock/slack-gamebot) - A game bot for Slack
 - [slack-notifier](https://github.com/stevenosloan/slack-notifier) - A simple wrapper for posting to Slack
 - [slack-notify](https://github.com/sosedoff/slack-notify) - Send notifications to Slack
 - [slack-poster](https://github.com/rikas/slack-poster) - Simple gem to post messages on Slack using webhooks
 - [slack-ruby-bot](https://github.com/dblock/slack-ruby-bot) - The easiest way to write a Slack bot in Ruby
 - [slack-ruby-client](https://github.com/dblock/slack-ruby-client) - A Ruby client for the Slack Web and RealTime Messaging APIs
-- [snarkov](https://github.com/gesteves/snarkov) - Sinatra-based Markov bot for Slack
-- [tickbot](https://github.com/barryf/tickbot) - Simple team time tracking reminder
-- [trebekbot](https://github.com/gesteves/trebekbot) - A Jeopardy! bot for Slack
 
 ### Scala
 
 - [slack-scala-client](https://github.com/gilbertw1/slack-scala-client) - A Scala Slack client for the Web and RTM API
 
-### Shell
-
-- [slacktee](https://github.com/course-hero/slacktee) - A bash script that works like _tee_ command
-
 ## :gear: &nbsp; Open-Source Slack Apps and Integrations
 
-## Contribute
+### CoffeeScript
 
-Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
+- [jinora](https://github.com/sdslabs/jinora) - Slack webhook app to create anonymous public channels
 
-## License
+### Java
+
+- [simple-slack-api](https://github.com/Ullink/simple-slack-api) - A Slack client library in Java
+
+### JavaScript
+   
+- [tesla-slack](https://github.com/heikkipora/tesla-slack) - Track your Tesla from Slack
+
+### PHP
+
+- [MantisBT-Slack](https://github.com/infojunkie/MantisBT-Slack) - MantisBT plugin to send bug updates to Slack
+- [monolog](https://github.com/Seldaek/monolog) - Sends your logs to Slack  
+
+### Python
+
+- [slackbot](https://github.com/lins05/slackbot) - A chat bot for Slack
+- [slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from the command line
+- [wee-slack](https://github.com/rawdigits/wee-slack) - A WeeChat plugin for Slack
+
+### Ruby
+
+- [slack-gamebot](https://github.com/dblock/slack-gamebot) - A game bot for Slack
+- [snarkov](https://github.com/gesteves/snarkov) - Sinatra-based Markov bot for Slack
+- [tickbot](https://github.com/barryf/tickbot) - Simple team time tracking reminder
+- [trebekbot](https://github.com/gesteves/trebekbot) - A Jeopardy! bot for Slack
+
+## :heavy_plus_sign: &nbsp; Contributions
+
+Contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+
+## :page_facing_up: &nbsp; License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
