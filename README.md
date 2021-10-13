@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/revamp-navigation/awesome-slack-pink.png" alt="Logo" width="600px">
+    <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/revamp-navigation/awesome-slack-pink.png" alt="Logo" width="300px">
 </p>
 
 <p align="center">
@@ -9,6 +9,8 @@
 <p align="center">
     A curated list of awesome, Slack-related things.
 </p>
+
+***
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
