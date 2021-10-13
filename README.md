@@ -1,7 +1,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/revamp-navigation/awesome-slack-pink.png" alt="Logo" width="150px">
+    <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/revamp-navigation/awesome-slack-pink.png" alt="Logo" width="200px">
 </p>
 
 <p align="center">
