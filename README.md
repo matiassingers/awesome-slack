@@ -16,7 +16,7 @@
 
 An avid Slack user? A developer looking for awesome tools to build out an integration? Just looking for inspiration? This is a list of all the best things Slack. 
 
-- [:pencil:  Lists](#pencil-nbsp-lists)
+- [:pencil:  Lists](#pencil--lists)
 - [:art:  Themes](#art-nbsp-themes)
 - [:hammer_and_wrench:  Libraries and SDKs](#hammer_and_wrench-nbsp-libraries-and-sdks)
 - [:gear:  Open-Source Slack Apps and Integrations](#gear-nbsp-open-source-slack-apps-and-integrations)
