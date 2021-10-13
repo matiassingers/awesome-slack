@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <h1 align="center">Awesome Slack</h1>
+    <h2 align="center">Awesome Slack</h2>
 </p>
 
 <p align="center">
