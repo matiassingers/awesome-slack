@@ -32,21 +32,6 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ## :hammer_and_wrench: &nbsp; Libraries and SDKs
 
-- [C++](#c-1)  
-- [C&#35;](#c-2)
-- [Clojure](#clojure)
-- [CoffeeScript](#coffeescript)
-- [Erlang](#erlang)
-- [Go](#go)
-- [Java](#java)
-- [JavaScript](#javascript)
-- [PHP](#php)
-- [Python](#python)
-- [R](#r)
-- [Ruby](#ruby)
-- [Scala](#scala)
-- [Shell](#shell)
-
 ### C&#35;
 
 - [margiebot](https://github.com/jammerware/margiebot/wiki) - A .NET library designed to make building bots for Slack fast, easy, and fun
