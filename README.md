@@ -20,8 +20,8 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [:art: Themes](#art-nbsp-themes)
 - [:hammer_and_wrench: Libraries and SDKs](#hammer_and_wrench-nbsp-libraries-and-sdks)
 - [:gear: Open-Source Slack Apps and Integrations](#gear-nbsp-open-source-slack-apps-and-integrations)
-- [:heavy_plus_sign: Contributions](#heavy_plus_sign-nbsp-contributions)
-- [:page_facing_up: License](#page_facing_up-nbsp-license)
+- [:busts_in_silhouette: Contributions](#busts_in_silhouette-nbsp-contributions)
+- [:classical_building: License](#classical_building-nbsp-license)
 
 ## :pencil: &nbsp; Lists
 - [Community-Built Libraries](https://api.slack.com/community) - Slack-curated list of community open-source libraries
@@ -124,11 +124,11 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [tickbot](https://github.com/barryf/tickbot) - Simple team time tracking reminder
 - [trebekbot](https://github.com/gesteves/trebekbot) - A Jeopardy! bot for Slack
 
-## :heavy_plus_sign: &nbsp; Contributions
+## :busts_in_silhouette: &nbsp; Contributions
 
 Contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
 
-## :page_facing_up: &nbsp; License
+## :classical_building: &nbsp; License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
