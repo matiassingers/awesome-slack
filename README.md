@@ -2,9 +2,9 @@
 > A curated list of awesome Slack related things
 
 ## Table of Contents
-- [:pencil: Lists](#pencil--lists)
-- [Third-party services](#third-party-services)
-- [Themes](#themes)
+- [:pencil: Lists](#pencil-nbsp-lists)
+- [:busts_in_silhouette: For Slack Users](#busts_in_silhouette-nbsp-for-slack-users)
+- [:hammer_and_wrench: For Developers](#hammer_and_wrench-nbsp-for-developers)
 - [Integrations](#integrations)
   - [C++](#c-1)
   - [C&#35;](#c-2)
@@ -23,19 +23,16 @@
 
 ## :pencil: &nbsp; Lists
 - [Community-Built Libraries](https://api.slack.com/community) - Slack-curated list of community open-source libraries
-- [Slack App Directory](https://slack.com/apps) - Official directory of publicly available Slack apps
-- [Slack Platform Changelog](https://api.slack.com/changelog) - List of changes to the Slack Platform 
+- [Slack App Directory](https://slack.com/apps) - Official directory of publicly available Slack apps 
 
-## Third-party services
-- [BuildPulse](https://buildpulse.io/integrations/slack) - Get daily reports on your flakiest tests, right in Slack, for the whole team to see
-- [Datadog](https://www.datadoghq.com/blog/collaborate-share-track-performance-slack-datadog/) - Send notifications to slack when alerts trigger, and share graphs with your colleagues in chat
-- [Drupal](https://www.drupal.org/project/slack) - Send messages from a Drupal website to Slack
-- [Graylog2](https://github.com/Graylog2/graylog-plugin-slack) - Send log alerts to Slack
-- [Slacker](http://slacker.nathanhoad.net/) - Post funny replies to Slack as your favourite character
+## :busts_in_silhouette: &nbsp; For Slack Users
 
-## Themes
+### :art: &nbsp; Themes
+
 - [Slack Themes](http://slackthemes.net/) - A Slack sidebar theme browser
 - [Sweet Themes Are Made of These](http://sweetthemesaremadeofthe.se/) - Website for sharing Slack custom palettes
+
+## :hammer_and_wrench: &nbsp; For Developers
 
 ## Integrations
 
