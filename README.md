@@ -1,7 +1,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/revamp-navigation/awesome-slack-pink.png" alt="Logo" width="300px">
+    <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/revamp-navigation/awesome-slack-pink.png" alt="Logo" width="150px">
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ***
 
-An avid Slack user? A developer looking for awesome tools to build out an integration? Just looking for inspiration? This list is all of the best things Slack. 
+An avid Slack user? A developer looking for awesome tools to build out an integration? Just looking for inspiration? This is a list of all the best things Slack. 
 
 - [:pencil: Lists](#pencil-nbsp-lists)
 - [:busts_in_silhouette: For Slack Users](#busts_in_silhouette-nbsp-for-slack-users)
