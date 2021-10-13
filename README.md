@@ -14,7 +14,6 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Table of Contents
 - [:pencil: Lists](#pencil-nbsp-lists)
 - [:busts_in_silhouette: For Slack Users](#busts_in_silhouette-nbsp-for-slack-users)
 - [:hammer_and_wrench: For Developers](#hammer_and_wrench-nbsp-for-developers)
