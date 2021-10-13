@@ -17,10 +17,9 @@
 An avid Slack user? A developer looking for awesome tools to build out an integration? Just looking for inspiration? This is a list of all the best things Slack. 
 
 - [:pencil: Lists](#pencil-nbsp-lists)
-- [:busts_in_silhouette: For Slack Users](#busts_in_silhouette-nbsp-for-slack-users)
-- [:hammer_and_wrench: For Developers](#hammer_and_wrench-nbsp-for-developers)
-- [Integrations](#integrations)
-  - [C++](#c-1)
+- [:art: Themes](#art-nbsp-themes)
+- [:hammer_and_wrench: Libraries and SDKs](#hammer_and_wrench-nbsp-libraries-and-sdks)
+  - [C++](#c-1)  
   - [C&#35;](#c-2)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
@@ -34,21 +33,18 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
   - [Ruby](#ruby)
   - [Scala](#scala)
   - [Shell](#shell)
+- [:robot_face: Open-Source Slack Apps and Integrations](#robot_face-nbsp-open-source-slack-apps-and-integrations) 
 
 ## :pencil: &nbsp; Lists
 - [Community-Built Libraries](https://api.slack.com/community) - Slack-curated list of community open-source libraries
 - [Slack App Directory](https://slack.com/apps) - Official directory of publicly available Slack apps 
 
-## :busts_in_silhouette: &nbsp; For Slack Users
-
-### :art: &nbsp; Themes
+## :art: &nbsp; Themes
 
 - [Slack Themes](http://slackthemes.net/) - A Slack sidebar theme browser
 - [Sweet Themes Are Made of These](http://sweetthemesaremadeofthe.se/) - Website for sharing Slack custom palettes
 
-## :hammer_and_wrench: &nbsp; For Developers
-
-## Integrations
+## :hammer_and_wrench: &nbsp; Libraries and SDKs
 
 ### C&#35;
 
@@ -123,11 +119,12 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 - [slacktee](https://github.com/course-hero/slacktee) - A bash script that works like _tee_ command
 
+## :robot_face: &nbsp; Open-Source Slack Apps and Integrations
+
 ## Contribute
 
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
