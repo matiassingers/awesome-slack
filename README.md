@@ -16,12 +16,12 @@
 
 An avid Slack user? A developer looking for awesome tools to build out an integration? Just looking for inspiration? This is a list of all the best things Slack. 
 
-- [:pencil: Lists](#pencil-nbsp-lists)
-- [:art: Themes](#art-nbsp-themes)
-- [:hammer_and_wrench: Libraries and SDKs](#hammer_and_wrench-nbsp-libraries-and-sdks)
-- [:gear: Open-Source Slack Apps and Integrations](#gear-nbsp-open-source-slack-apps-and-integrations)
-- [:busts_in_silhouette: Contributions](#busts_in_silhouette-nbsp-contributions)
-- [:classical_building: License](#classical_building-nbsp-license)
+- [:pencil:  Lists](#pencil-nbsp-lists)
+- [:art:  Themes](#art-nbsp-themes)
+- [:hammer_and_wrench:  Libraries and SDKs](#hammer_and_wrench-nbsp-libraries-and-sdks)
+- [:gear:  Open-Source Slack Apps and Integrations](#gear-nbsp-open-source-slack-apps-and-integrations)
+- [:busts_in_silhouette:  Contributions](#busts_in_silhouette-nbsp-contributions)
+- [:classical_building:  License](#classical_building-nbsp-license)
 
 ## :pencil: &nbsp; Lists
 - [Community-Built Libraries](https://api.slack.com/community) - Slack-curated list of community open-source libraries
