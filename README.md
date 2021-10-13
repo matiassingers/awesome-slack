@@ -19,20 +19,6 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [:pencil: Lists](#pencil-nbsp-lists)
 - [:art: Themes](#art-nbsp-themes)
 - [:hammer_and_wrench: Libraries and SDKs](#hammer_and_wrench-nbsp-libraries-and-sdks)
-  - [C++](#c-1)  
-  - [C&#35;](#c-2)
-  - [Clojure](#clojure)
-  - [CoffeeScript](#coffeescript)
-  - [Erlang](#erlang)
-  - [Go](#go)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [PHP](#php)
-  - [Python](#python)
-  - [R](#r)
-  - [Ruby](#ruby)
-  - [Scala](#scala)
-  - [Shell](#shell)
 - [:gear: Open-Source Slack Apps and Integrations](#gear-nbsp-open-source-slack-apps-and-integrations) 
 
 ## :pencil: &nbsp; Lists
@@ -45,6 +31,21 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [Sweet Themes Are Made of These](http://sweetthemesaremadeofthe.se/) - Website for sharing Slack custom palettes
 
 ## :hammer_and_wrench: &nbsp; Libraries and SDKs
+
+- [C++](#c-1)  
+- [C&#35;](#c-2)
+- [Clojure](#clojure)
+- [CoffeeScript](#coffeescript)
+- [Erlang](#erlang)
+- [Go](#go)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [PHP](#php)
+- [Python](#python)
+- [R](#r)
+- [Ruby](#ruby)
+- [Scala](#scala)
+- [Shell](#shell)
 
 ### C&#35;
 
