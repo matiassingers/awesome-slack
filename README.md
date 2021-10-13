@@ -22,7 +22,9 @@
   - [Shell](#shell)
 
 ## :pencil: &nbsp; Lists
-- [Community-Built Libraries](https://api.slack.com/community)
+- [Community-Built Libraries](https://api.slack.com/community) - Slack-curated list of community open-source libraries
+- [Slack App Directory](https://slack.com/apps) - Official directory of publicly available Slack apps
+- [Slack Platform Changelog](https://api.slack.com/changelog) - List of changes to the Slack Platform 
 
 ## Third-party services
 - [BuildPulse](https://buildpulse.io/integrations/slack) - Get daily reports on your flakiest tests, right in Slack, for the whole team to see
