@@ -1,7 +1,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/revamp-navigation/awesome-slack-pink.png" alt="Logo" width="200px">
+    <img src="https://raw.githubusercontent.com/matiassingers/awesome-slack/master/awesome-slack-pink.png" alt="Logo" width="200px">
 </p>
 
 <p align="center">
@@ -17,11 +17,11 @@
 An avid Slack user? A developer looking for awesome tools to build out an integration? Just looking for inspiration? This is a list of all the best things Slack. 
 
 - [:pencil:  Lists](#pencil--lists)
-- [:art:  Themes](#art-nbsp-themes)
-- [:hammer_and_wrench:  Libraries and SDKs](#hammer_and_wrench-nbsp-libraries-and-sdks)
-- [:gear:  Open-Source Slack Apps and Integrations](#gear-nbsp-open-source-slack-apps-and-integrations)
-- [:busts_in_silhouette:  Contributions](#busts_in_silhouette-nbsp-contributions)
-- [:classical_building:  License](#classical_building-nbsp-license)
+- [:art:  Themes](#art--themes)
+- [:hammer_and_wrench:  Libraries and SDKs](#hammer_and_wrench--libraries-and-sdks)
+- [:gear:  Open-Source Slack Apps and Integrations](#gear--open-source-slack-apps-and-integrations)
+- [:busts_in_silhouette:  Contributions](#busts_in_silhouette--contributions)
+- [:classical_building:  License](#classical_building--license)
 
 ## :pencil: &nbsp; Lists
 - [Community-Built Libraries](https://api.slack.com/community) - Slack-curated list of community open-source libraries
