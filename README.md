@@ -102,7 +102,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 - [simple-slack-api](https://github.com/Ullink/simple-slack-api) - A Slack client library in Java
 
-### JavaScript
+### JavaScript/Typescript
    
 - [tesla-slack](https://github.com/heikkipora/tesla-slack) - Track your Tesla from Slack
 
