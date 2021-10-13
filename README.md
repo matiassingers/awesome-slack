@@ -2,7 +2,7 @@
 > A curated list of awesome Slack related things
 
 ## Table of Contents
-- [Lists](#%3Apencil%3A%20%26nbsp%3B%20Lists)
+- [:pencil: Lists](#pencil--lists)
 - [Third-party services](#third-party-services)
 - [Themes](#themes)
 - [Integrations](#integrations)
@@ -21,7 +21,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
 
-### :pencil: &nbsp; Lists
+## :pencil: &nbsp; Lists
 - [Community-Built Libraries](https://api.slack.com/community)
 
 ## Third-party services
