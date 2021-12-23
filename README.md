@@ -26,6 +26,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 ## :pencil: &nbsp; Lists
 - [Community-Built Libraries](https://api.slack.com/community) - Slack-curated list of community open-source libraries
 - [Slack App Directory](https://slack.com/apps) - Official directory of publicly available Slack apps 
+- [Slack Emojis](https://emoji.gg) - Unofficial directory of custom emojis for Slack
 
 ## :art: &nbsp; Themes
 
