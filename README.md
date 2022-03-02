@@ -69,6 +69,10 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [slack-php-socket-mode](https://github.com/slack-php/slack-php-socket-mode) - A Socket Mode implementation for [slack-php-app-framework](https://github.com/slack-php/slack-php-app-framework)
 - [slack-php-slick](https://github.com/slack-php/slack-php-slick) - Dependency-free micro-framework for building Slack apps in PHP   
 
+### PowerShell
+
+- [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) -  PowerShell module for simple Slack integration.
+
 ### Python
 
 - [blockkit](https://github.com/imryche/blockkit) - A fast way to build Block Kit interfaces in Python
