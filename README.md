@@ -85,6 +85,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [slack-php-api](https://github.com/jolicode/slack-php-api) - PHP Slack client based on the official OpenAPI specification 
 - [slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from the command line
 - [slashbot](https://github.com/ebrassell/slashbot) - An easy way to create slash commands using AWS Lambda functions
+- [boltworks](https://github.com/YSaxon/boltworks) - Extensions to Slack's bolt framework: expandable GUIs, easier callbacks, richer CLIs
 
 ### R
 
