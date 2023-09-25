@@ -19,6 +19,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [:pencil:  Lists](#pencil--lists)
 - [:art:  Themes](#art--themes)
 - [:hammer_and_wrench:  Libraries and SDKs](#hammer_and_wrench--libraries-and-sdks)
+- [:eight_pointed_black_star:  Open-Source Slack Clients](#eight_pointed_black_star--open-source-slack-clients)
 - [:gear:  Open-Source Slack Apps and Integrations](#gear--open-source-slack-apps-and-integrations)
 - [:busts_in_silhouette:  Contributions](#busts_in_silhouette--contributions)
 - [:classical_building:  License](#classical_building--license)
@@ -112,6 +113,12 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 ### Swift
 
 - [SwiftBlocksUI](https://github.com/SwiftBlocksUI/SwiftBlocksUI/) - Interactive Slack messages and modals using a SwiftUI-like declarative style
+
+## :eight_pointed_black_star: Open-Source Slack Clients
+
+### Python
+
+- [loaf](https://github.com/cbehan/loaf) - Lightweight client with a terminal GUI
 
 ## :gear: &nbsp; Open-Source Slack Apps and Integrations
 
