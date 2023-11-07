@@ -60,6 +60,9 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [jsx-slack](https://github.com/yhatt/jsx-slack) - Build JSON object for Slack Block Kit surfaces from JSX
 - [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack's official SDK for Node.js 
 - [slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI
+- [artist](https://github.com/RightCapitalHQ/artist) - The Artist is a Slack chatbot with the ability to draw fantastic AI images(with DALL·E 3).
+
+
 
 ### PHP
 
