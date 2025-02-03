@@ -32,6 +32,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 - [Slack Themes](http://slackthemes.net/) - A Slack sidebar theme browser
 - [Sweet Themes Are Made of These](http://sweetthemesaremadeofthe.se/) - Website for sharing Slack custom palettes
+- [(more) Slack Themes](https://slack.michaeldemar.co) - A Slack theme browser for the new schema, also supporting the creation of themes
 
 ## :hammer_and_wrench: &nbsp; Libraries and SDKs
 
