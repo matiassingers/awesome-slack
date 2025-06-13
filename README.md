@@ -56,6 +56,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### JavaScript/TypeScript
 
+- [appstore-webhook-proxy](https://github.com/yannisalexiou/appstore-webhook-proxy) - App Store Webhook Proxy for Microsoft Teams & Slack
 - [bolt-js](https://github.com/slackapi/bolt-js) - Slack's official JavaScript framework for building Slack apps
 - [jsx-slack](https://github.com/yhatt/jsx-slack) - Build JSON object for Slack Block Kit surfaces from JSX
 - [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack's official SDK for Node.js 
