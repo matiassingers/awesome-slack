@@ -138,6 +138,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Python
 
+- [haly](https://github.com/upmortem/slack-bot) - A GPT chat bot for Slack
 - [slackbot](https://github.com/lins05/slackbot) - A chat bot for Slack
 - [slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from the command line
 - [tasks-app](https://github.com/slackapi/tasks-app) - Simple task management app produced by Slack
