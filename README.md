@@ -149,6 +149,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [snarkov](https://github.com/gesteves/snarkov) - Sinatra-based Markov bot for Slack
 - [tickbot](https://github.com/barryf/tickbot) - Simple team time tracking reminder
 - [trebekbot](https://github.com/gesteves/trebekbot) - A Jeopardy! bot for Slack
+- [ZReviewTender](https://github.com/ZhgChgLi/ZReviewTender) - A tool for fetching app reviews from the App Store and Google Play Console and sending them to Slack.
 
 ## :busts_in_silhouette: &nbsp; Contributions
 
