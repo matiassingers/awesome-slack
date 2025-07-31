@@ -34,6 +34,10 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ## :hammer_and_wrench: &nbsp; Libraries and SDKs
 
+### AI Tools
+
+- [MindsDB](https://docs.mindsdb.com/integrations/app-integrations/slack) - Connects Slack to any AI/ML model to implement and automate AI-powered applications. Deploy, serve, and fine-tune models in real-time, utilizing data from databases, vector stores, or applications.
+
 ### C&#35;
 
 - [margiebot](https://github.com/jammerware/margiebot) - A .NET library designed to make building bots for Slack fast, easy, and fun
