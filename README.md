@@ -126,6 +126,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 ### JavaScript/Typescript
 
 - [definition-app](https://github.com/slackapi/definition-app) - App for storing and accessing company-specific phrases
+- [OpenPaw](https://github.com/daxaur/openpaw) - Open-source AI CLI tool with built-in Slack skills for reading and sending messages.
 - [slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action
 - [slack-reporting-tool](https://github.com/slackapi/slack-reporting-tool) - App that allows team members to report offensive messages
 - [tesla-slack](https://github.com/heikkipora/tesla-slack) - Track your Tesla from Slack
