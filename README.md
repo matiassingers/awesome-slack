@@ -59,6 +59,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [jsx-slack](https://github.com/yhatt/jsx-slack) - Build JSON object for Slack Block Kit surfaces from JSX
 - [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack's official SDK for Node.js 
 - [slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI
+- [unified-channel](https://github.com/gambletan/unified-channel-js) - Unified messaging middleware for 19 channels — write your bot once, deploy to Slack, Telegram, Discord, WhatsApp, and more
 
 ### PHP
 
@@ -85,6 +86,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from the command line
 - [slashbot](https://github.com/ebrassell/slashbot) - An easy way to create slash commands using AWS Lambda functions
 - [boltworks](https://github.com/YSaxon/boltworks) - Extensions to Slack's bolt framework: expandable GUIs, easier callbacks, richer CLIs
+- [unified-channel](https://github.com/gambletan/unified-channel) - Unified messaging middleware for AI agents — one API for 19 channels (Telegram, Discord, Slack, WhatsApp, and more)
 
 ### R
 
