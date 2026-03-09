@@ -143,6 +143,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [tasks-app](https://github.com/slackapi/tasks-app) - Simple task management app produced by Slack
 - [wee-slack](https://github.com/rawdigits/wee-slack) - A WeeChat plugin for Slack
 
+- [SlackClaw](https://slackclaw.ai) - Managed OpenClaw AI agent hosting for Slack workspaces. Credit-based pricing, per-channel permissions, and built-in audit logging
 ### Ruby
 
 - [slack-gamebot](https://github.com/dblock/slack-gamebot) - A game bot for Slack
