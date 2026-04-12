@@ -59,6 +59,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [jsx-slack](https://github.com/yhatt/jsx-slack) - Build JSON object for Slack Block Kit surfaces from JSX
 - [node-slack-sdk](https://github.com/slackapi/node-slack-sdk) - Slack's official SDK for Node.js 
 - [slack-block-builder](https://github.com/raycharius/slack-block-builder) - Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI
+- [botlint-slack](https://github.com/markkenangray-ui/botlint) - Block Kit validator and mock Slack client for unit testing Slack bots without real API calls.
 
 ### PHP
 
