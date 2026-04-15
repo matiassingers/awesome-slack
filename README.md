@@ -126,6 +126,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 ### JavaScript/Typescript
 
 - [definition-app](https://github.com/slackapi/definition-app) - App for storing and accessing company-specific phrases
+- [ShopSavvy](https://github.com/shopsavvy/slack-shopsavvy) - Slack app for product search, price comparison, and deal discovery with Block Kit product cards
 - [slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action
 - [slack-reporting-tool](https://github.com/slackapi/slack-reporting-tool) - App that allows team members to report offensive messages
 - [tesla-slack](https://github.com/heikkipora/tesla-slack) - Track your Tesla from Slack
