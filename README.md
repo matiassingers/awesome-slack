@@ -27,6 +27,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [Community-Built Libraries](https://api.slack.com/community) - Slack-curated list of community open-source libraries
 - [Slack App Directory](https://slack.com/apps) - Official directory of publicly available Slack apps 
 - [Slack Emojis](https://emoji.gg) - Unofficial directory of custom emojis for Slack
+- [Fantastic Slack Channels](https://github.com/glitch-spark/fantastic-slack-channels) - Searchable directory of 425+ Slack communities for startup founders, indie makers, and developers ([browse online](https://glitch-spark.github.io/fantastic-slack-channels/))
 
 ## :art: &nbsp; Themes
 
