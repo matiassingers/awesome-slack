@@ -141,6 +141,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [slackbot](https://github.com/lins05/slackbot) - A chat bot for Slack
 - [slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from the command line
 - [tasks-app](https://github.com/slackapi/tasks-app) - Simple task management app produced by Slack
+- [wanguard-notify](https://github.com/Flowtriq/wanguard-notify) - Alert bridge that forwards Andrisoft Wanguard DDoS notifications to Slack, Discord, PagerDuty, Telegram, Teams, email, and webhooks.
 - [wee-slack](https://github.com/rawdigits/wee-slack) - A WeeChat plugin for Slack
 
 ### Ruby
