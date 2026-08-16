@@ -125,6 +125,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### JavaScript/Typescript
 
+- [aeon](https://github.com/aeonfun/aeon) - Autonomous AI agent framework that posts run reports to Slack with interactive buttons and routes inbound commands back to the agent
 - [definition-app](https://github.com/slackapi/definition-app) - App for storing and accessing company-specific phrases
 - [slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action
 - [slack-reporting-tool](https://github.com/slackapi/slack-reporting-tool) - App that allows team members to report offensive messages
