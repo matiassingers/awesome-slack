@@ -128,6 +128,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [definition-app](https://github.com/slackapi/definition-app) - App for storing and accessing company-specific phrases
 - [slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action
 - [slack-reporting-tool](https://github.com/slackapi/slack-reporting-tool) - App that allows team members to report offensive messages
+- [SlackONOS](https://github.com/htilly/SlackONOS) - Democratic Slack and Discord bot for Sonos speaker control with Spotify integration.
 - [tesla-slack](https://github.com/heikkipora/tesla-slack) - Track your Tesla from Slack
 - [tasks-app](https://github.com/slackapi/tasks-app) - Simple task management app produced by Slack
 
