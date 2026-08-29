@@ -37,8 +37,8 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Ballerina
 
-- [ballerina-slack-library](https://github.com/ballerina-platform/module-ballerinax-slack) - Ballerina library for Slack
-  
+- [ballerina-slack-library](https://github.com/ballerina-platform/module-ballerinax-slack) - Ballerina library for Slack.
+
 ### C&#35;
 
 - [margiebot](https://github.com/jammerware/margiebot) - A .NET library designed to make building bots for Slack fast, easy, and fun
