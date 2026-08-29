@@ -8,7 +8,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Suggested additions must be specifically about Slack. Slack should be a core part of the project, not one optional output among several interchangeable integrations.
 - General-purpose products and services will not be accepted solely because they can send notifications to Slack.
 - Please do not submit Slack App Directory apps. Only open-source Slack projects will be accepted.
-- The linked source repository must include the complete text of a recognized open-source license.
+- The linked source repository must clearly state a recognized open-source license. A LICENSE file containing the full license text is strongly preferred.
 - This is a curated list, not a marketing channel. Thin wrappers whose main purpose is to drive usage of a commercial API or service will be declined.
 - New categories and improvements to the existing categorization are welcome.
 
