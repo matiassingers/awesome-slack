@@ -124,6 +124,10 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 - [jinora](https://github.com/sdslabs/jinora) - Slack webhook app to create anonymous public channels
 
+### Go
+
+- [SolidPing](https://github.com/fclairamb/solidping) - Uptime monitor with an open-source Slack app: incident threads, `/check` and `/comment` slash commands.
+
 ### Java
 
 - [simple-slack-api](https://github.com/Ullink/simple-slack-api) - A Slack client library in Java
