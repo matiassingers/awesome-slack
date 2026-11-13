@@ -132,6 +132,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 ### JavaScript/Typescript
 
 - [definition-app](https://github.com/slackapi/definition-app) - App for storing and accessing company-specific phrases
+- [QRdx](https://github.com/bucharitesh/qrdx/tree/main/plugins/slack) - Slack app that makes QR codes from a link or text with /qr, a mention or a direct message.
 - [slack-github-action](https://github.com/slackapi/slack-github-action) - Send data into Slack using this GitHub Action
 - [slack-reporting-tool](https://github.com/slackapi/slack-reporting-tool) - App that allows team members to report offensive messages
 - [SlackONOS](https://github.com/htilly/SlackONOS) - Democratic Slack and Discord bot for Sonos speaker control with Spotify integration.
