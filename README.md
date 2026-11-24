@@ -145,6 +145,7 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 
 ### Python
 
+- [Morgenruf](https://github.com/morgenruf/morgenruf) - Async standups, coffee chats, kudos and birthdays for Slack, self-hosted with Docker or Helm.
 - [slackbot](https://github.com/lins05/slackbot) - A chat bot for Slack
 - [slacker-cli](https://github.com/juanpabloaj/slacker-cli) - Messages to slack from the command line
 - [tasks-app](https://github.com/slackapi/tasks-app) - Simple task management app produced by Slack
